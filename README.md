@@ -9,9 +9,9 @@
 
 ![TELA 1](github/preview1.png "TELA 1")
 
-![TELA 1](github/preview1.png "TELA 2")
+![TELA 1](github/preview2.png "TELA 2")
 
-![TELA 1](github/preview1.png "TELA 3")
+![TELA 1](github/preview3.png "TELA 3")
 
 
 ## Technologies :microscope:
